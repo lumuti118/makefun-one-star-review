@@ -1,14 +1,14 @@
-// One-Star Review of Something Essential — make.fun entry.
+// One-Star Review of Something Essential — make.fun entry, v2.
 // Writes a single deadpan one-star review (max 160 chars) to /output/entry.txt.
-//
-// The line, read twice: the grievance is a real paradox everyone recognises
-// (the sun burns you yet still leaves you vitamin D deficient), the deadpan
-// holds all the way through, and the sting lands in the last few words.
-// No exclamation marks, no winking, one joke told cleanly.
+// Champion line (107 chars, beat v1 and v2 in variant-vs-variant proxy-judge
+// duels): the sun tans everything it touches, then betrays you with a pale
+// watch-shaped patch on the wrist all summer — the grievance is a small,
+// specific, instantly recognisable summer injury, and the sting lands in
+// the last few words. No exclamation marks, no winking, one joke told cleanly.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const REVIEW =
-  "One star. The sun is too bright to look at, too hot to stand near, and somehow still leaves me vitamin D deficient.";
+  "One star. The sun tans everything it touches, then leaves a pale watch-shaped patch on my wrist all summer.";
 
 // Gate check, mirroring the sealed scorer: UTF-8 text, 1-160 characters,
 // not only whitespace, single line. Count code points, not UTF-16 units.

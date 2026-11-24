@@ -4,9 +4,9 @@
 ![Rank](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/lumuti118/makefun-one-star-review/rank.svg)
 ![Reward](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/lumuti118/makefun-one-star-review/reward.svg)
 
-A deadpan one-star review of the sun — the everyday essential that is too
-bright to look at, too hot to stand near, and somehow still leaves you
-vitamin D deficient. One line, 115 characters, zero stars given.
+A deadpan one-star review of the sun — the everyday essential that tans
+everything it touches, then leaves a pale watch-shaped patch on your wrist
+all summer. One line, 107 characters, zero stars given.
 
 Built for the [make.fun](https://make.fun) competition
 **One-Star Review of Something Essential**: the funniest deadpan one-star
@@ -22,7 +22,7 @@ Then check `/output/entry.txt` — it holds the single-line review.
 
 ## Entry
 
-> One star. The sun is too bright to look at, too hot to stand near, and somehow still leaves me vitamin D deficient.
+> One star. The sun tans everything it touches, then leaves a pale watch-shaped patch on my wrist all summer.
 
 ---
 
